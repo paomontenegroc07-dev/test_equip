@@ -1,7 +1,7 @@
 # Equipo 1
 
 ## Integrantes
-- [ ] Integrante 1
+- [ ] Paola Montenegro 1
 - [ ] Integrante 2
 - [ ] Integrante 3
 
