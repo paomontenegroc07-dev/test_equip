@@ -1,8 +1,8 @@
 # Equipo 1
 
 ## Integrantes
-- [ ] Integrante 1
-- [ ] Integrante 2
+- [ ] Integrante 1 tambien renata
+- [ ] renata  2
 - [ ] Integrante 3
 
 ## Tarea
